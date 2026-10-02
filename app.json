@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Karm Tracker",
+    "slug": "karm-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0D0F14"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.karmtracker.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#181A19"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-status-bar"
+    ]
+  }
+}
